@@ -1,0 +1,8 @@
+BuildArtifacts
+packages
+*.obj
+*.dll
+*.exe
+*.com
+bin\
+obj\
