@@ -1,0 +1,6 @@
+c:\Users\Vincent.Yang\Documents\GitHub\HelloCI\BuildArtifacts\HelloCI.Tests.dll.config
+c:\Users\Vincent.Yang\Documents\GitHub\HelloCI\BuildArtifacts\HelloCI.Tests.dll
+c:\Users\Vincent.Yang\Documents\GitHub\HelloCI\BuildArtifacts\HelloCI.Tests.pdb
+c:\Users\Vincent.Yang\Documents\GitHub\HelloCI\HelloCI.Tests\obj\Release\HelloCI.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Vincent.Yang\Documents\GitHub\HelloCI\HelloCI.Tests\obj\Release\HelloCI.Tests.dll
+c:\Users\Vincent.Yang\Documents\GitHub\HelloCI\HelloCI.Tests\obj\Release\HelloCI.Tests.pdb
