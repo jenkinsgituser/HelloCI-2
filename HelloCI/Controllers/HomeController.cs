@@ -10,7 +10,7 @@ namespace HelloCI.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page New";
+            ViewBag.Title = "HelloCI Home Page";
 
             return View();
         }
