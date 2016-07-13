@@ -18,7 +18,7 @@ namespace HelloCI.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "HelloCI5"
+            return "HelloCI5"；
         }
 
         // POST api/values
